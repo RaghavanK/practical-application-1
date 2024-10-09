@@ -70,3 +70,13 @@ People with friends and partner will have higher acceptance
 
 ### **_Conclusion_**: 
 People who visit the restaurant 1 to 3 times a month tend to have higher acceptance
+
+# Next Steps and Recommendations
+## Expensive Restaurants(20-50)
+- From the data coupon usage and acceptance is higher when people are with friends or partner. Targetting that user group will increase the coupon acceptance
+- Age group of above 26 and below 50 have higher acceptance. Users in that demographic should be given more coupons 
+- Providing coupons to users who visit 1 to 3 times should increase the odds of coupon acceptance
+
+## Bar
+- People who visit more than 3 times a month will have higher acceptance
+- People who travel with kids are less likely to visit bars. Those users can be deprioritized
