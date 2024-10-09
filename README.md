@@ -35,7 +35,7 @@ People who are older than 25 and visit more than 1 time has higher acceptance co
 
 ## Acceptance rate based on passangers
 
-![bar_coupon_acceptance_diff_criteria](images/bar_coupon_acceptance_diff_criteria.png)
+![bar_coupon_acceptance_number_of_visits](images/bar_coupon_acceptance_number_of_visits.png)
 
 ### **_Conclusion_**: 
 When there are no kids in the car there is higher acceptance rate compared to other scenarios
