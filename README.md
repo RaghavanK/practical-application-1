@@ -44,7 +44,7 @@ When there are no kids in the car there is higher acceptance rate compared to ot
 
 ## Overall acceptance
 
-![res_coupon_acceptance](images/res_coupon_acceptance.png)
+![res_coupon_accept](images/res_coupon_accept.png)
 
 ### **_Conclusion_**: 
 Less than 45% of acceptance chance when using restaurant coupons that are more expensive
